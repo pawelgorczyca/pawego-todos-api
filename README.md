@@ -7,4 +7,6 @@ In the project directory, before you run, you must check if you have installed:
 
 After check, you can run app from this commnand:
 
-### `node index.js` or if you have nodemon `nodemon index.js`
+### `node index.js` 
+or if you have nodemon
+### `nodemon index.js`
